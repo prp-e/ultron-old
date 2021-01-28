@@ -10,4 +10,5 @@ text.SimpleQA.index_from_list(input_data, INDEXDIR, commit_every=len(input_data)
 
 qa = text.SimpleQA(INDEXDIR)
 answers = qa.ask("Who are you?")
-qa.display_answers(answers[:5])
+for answer in answers[:5]:
+    print(answer)
