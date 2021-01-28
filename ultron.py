@@ -1,7 +1,7 @@
 import ktrain
 from ktrain import text 
 
-INDEXDIR = 'index_file'; 
+INDEXDIR = '/tmp/index_file'; 
 input_file = open('input_data.txt')
 input_data = [line for line in input_file.readlines()]
 
