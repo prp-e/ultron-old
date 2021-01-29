@@ -1,6 +1,6 @@
 # Project Ultron
 
-<span style="text-align:center;">
+<p style="text-align:center;">
 ![Ultron](Ultron.webp)
-</span>
+</p>
 
